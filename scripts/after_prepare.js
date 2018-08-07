@@ -8,7 +8,7 @@ if(process.argv.join("|").indexOf("APP_ID=") > -1) {
 } else {
 	var config = fs.readFileSync("package.json").toString();
 	var json = JSON.parse(config);
-	var APP_ID = json["cordova"]["plugins"]["cordova-plugin-facebook4"]["APP_ID"];
+	var APP_ID = json["cordova"]["plugins"]["cordova-plugin-facebook4-asb"]["APP_ID"];
 }
 
 var files = [

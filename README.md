@@ -1,4 +1,4 @@
-# cordova-plugin-facebook4
+# cordova-plugin-facebook4 - ASB Fork, don't use!
 
 > Use Facebook SDK version 4 in Cordova projects
 
