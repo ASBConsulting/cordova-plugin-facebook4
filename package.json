@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-facebook4",
-  "version": "3.0.0",
-  "description": "Cordova Facebook SDK 4 Plugin",
+  "name": "cordova-plugin-facebook4-asb",
+  "version": "3.0.1",
+  "description": "Cordova Facebook SDK 4 Plugin (ASB Fork, don't use!)",
   "cordova": {
-    "id": "cordova-plugin-facebook4",
+    "id": "cordova-plugin-facebook4-asb",
     "platforms": [
       "android",
       "ios",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jeduan/cordova-plugin-facebook4"
+    "url": "https://github.com/ASBConsulting/cordova-plugin-facebook4"
   },
   "keywords": [
     "cordova",
